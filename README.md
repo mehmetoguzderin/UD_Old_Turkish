@@ -1,5 +1,7 @@
 # Summary
 
+`UD_Turkic_Tonqq` is a Turkic treebank built upon Turkic script texts or ones that are trivially convertible.
+
 
 # Citing
 
@@ -18,3 +20,4 @@ If you use `UD_Turkic_Tonqq`, you are encouraged to use the following BibTeX ent
 # License
 
 `UD_Turkic_Tonqq` is released under the [Unlicense](LICENSE.md).
+
