@@ -3,7 +3,7 @@
 # Citing
 If you use `UD_Turkic_Tonqq`, you are encouraged to use the following BibTeX entry:
 ```BibTeX
-@software{ud_turkic_tonqq,
+@software{ud_turkic_tonqq_2020,
   author       = {Mehmet Oguz Derin},
   title        = {UD_Turkic_Tonqq},
   year         = 2020,
