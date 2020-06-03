@@ -2,25 +2,25 @@
 # newpar id = tonqq_kyk_bir
 # sent_id = tonqq_kyk_bir_bir
 # text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
-1	‏𐰋𐰃𐰠𐰏𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+1	‏𐰋𐰃𐰠𐰏𐰀‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 2	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-3	‏𐱃𐰆𐰪𐰸𐰸‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+3	‏𐱃𐰆𐰪𐰸𐰸‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 4	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-5	‏𐰋𐰤‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-6	‏𐰇𐰕𐰢‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+5	‏𐰋𐰤‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+6	‏𐰇𐰕𐰢‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 7	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-8	‏𐱃𐰉𐰎𐰲‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-9	‏𐰃𐰠𐰭𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+8	‏𐱃𐰉𐰎𐰲‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+9	‏𐰃𐰠𐰭𐰀‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 10	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-11	‏𐰶𐰃𐰠𐰧𐰢‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+11	‏𐰶𐰃𐰠𐰧𐰢‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 12	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-13	‏𐱅𐰇𐰼𐰚‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-14	‏𐰉𐰆𐰑𐰣‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+13	‏𐱅𐰇𐰼𐰚‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+14	‏𐰉𐰆𐰑𐰣‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 15	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-16	‏𐱃𐰉𐰎𐰲𐰴𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+16	‏𐱃𐰉𐰎𐰲𐰴𐰀‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 17	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-18	‏𐰝𐰇𐰼𐰼‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-19	‏𐰼𐱅𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+18	‏𐰝𐰇𐰼𐰼‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+19	‏𐰼𐱅𐰃‏	‏‏	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 20	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_ki
