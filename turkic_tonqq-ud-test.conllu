@@ -2,17 +2,29 @@
 # newpar id = tonqq_kyk_bir
 # sent_id = tonqq_kyk_bir_bir
 # text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	_
+1	‏𐰋𐰃𐰠𐰏𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+2	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+3	‏𐱃𐰆𐰪𐰸𐰸‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+4	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+5	‏𐰋𐰤‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+6	‏𐰇𐰕𐰢‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+7	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+8	‏𐱃𐰉𐰎𐰲‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+9	‏𐰃𐰠𐰭𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+10	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+11	‏𐰶𐰃𐰠𐰧𐰢‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+12	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+13	‏𐱅𐰇𐰼𐰚‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+14	‏𐰉𐰆𐰑𐰣‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+15	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+16	‏𐱃𐰉𐰎𐰲𐰴𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+17	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+18	‏𐰝𐰇𐰼𐰼‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+19	‏𐰼𐱅𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+20	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_ki
-# text = ‏𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐰴𐰣𐰃𐰤𐰉𐰆𐰞𐰢𐰘𐰤:𐱃𐰉𐰎𐰲𐰑𐰀:𐰑𐰺𐰡𐰃:𐰴𐰣𐰞𐰧𐰃:𐰴𐰣𐰃𐰤𐰸𐰆𐰑𐰯:𐱃𐰉𐰎𐰲𐰴𐰀:𐰖𐰣𐰀𐰃𐰲𐰚𐰓𐰃:𐱅𐰭𐰼𐰃:𐰨𐰀𐱅𐰢𐰾𐰼𐰨:𐰴𐰣𐰋𐰼𐱅𐰢:‏
+# text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
@@ -26,7 +38,7 @@
 0	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_yc
-# text = ‏𐰴𐰣𐰭𐰤:𐰸𐰆𐰑𐰯:𐰃𐰲𐰚𐰓𐰭:𐰃𐰲𐰚𐰓𐰝𐰇𐰲𐰤:𐱅𐰭𐰼𐰃:𐰇𐰠𐱅𐰢𐰾𐰼𐰨:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐰇𐰠𐱅𐰃𐰞𐰴𐰧𐰃:𐰖𐰸𐰉𐰆𐰡𐰃:𐱅𐰇𐰼𐰚:𐰾𐰃𐰼𐰉𐰆𐰑𐰣:𐰘𐰼𐰃𐰤𐱅𐰀:‏
+# text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
@@ -41,7 +53,7 @@
 0	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_tyrt
-# text = ‏𐰉𐰆𐰑𐰴𐰞𐰢𐰑𐰃:𐰃𐰑𐰀𐱃𐱁𐰑𐰀:𐰴𐰞𐰢𐰾𐰃:𐰸𐰆𐰉𐰺𐰆𐰯:𐰘𐱅𐰃𐰘𐰇𐰕𐰉𐰆𐰡𐰃:𐰚𐰃𐰇𐰠𐰏𐰃:𐱃𐰞𐰍𐰼𐱅𐰃:𐰋𐰃𐰼𐰇𐰠𐰏𐰃:𐰖𐰑𐰍𐰼𐱅𐰃:𐰘𐱅𐰃𐰘𐰇𐰕:𐰚𐰃𐰾𐰃𐰏:‏
+# text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
@@ -55,7 +67,7 @@
 0	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_bs
-# text = ‏𐰆𐰑𐰕𐰎𐰢𐰀:𐰆𐰞𐰍𐰃:𐱁𐰑𐰼𐱅𐰃:𐰖𐰎𐰞𐱅𐰃𐰓𐰃:𐰖𐰎𐰢𐰾𐰃𐰋𐰤𐰼𐱅𐰢:𐰋𐰠𐰏𐰀𐱃𐰆𐰪𐰸𐰸:𐰴𐰎𐰣𐰢𐰆𐰶𐰃𐰽𐰖𐰃𐰤𐱅𐰓𐰢:𐰽𐰴𐰧𐰢:𐱃𐰆𐰺𐰸𐰉𐰆𐰸𐰞𐰃:𐰾𐰢𐰕𐰉𐰆𐰸𐰞𐰃:𐰃𐰺𐰴𐰑𐰀:‏
+# text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
@@ -69,7 +81,7 @@
 0	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_lti
-# text = ‏𐰋𐰇𐰠𐰾𐰼:𐰾𐰢𐰕𐰉𐰆𐰸𐰀:𐱃𐰆𐰺𐰸𐰉𐰸𐰀𐱅𐰘𐰤:𐰋𐰃𐰠𐰢𐰕𐰼𐰢𐰾𐱅𐰘𐰤:𐰨𐰀𐰾𐰴𐰧𐰢:𐰧𐰀𐰚𐰃𐰾𐰼𐰀:𐱅𐰭𐰼𐰃:𐰋𐰃𐰠𐰏𐰋𐰼𐱅𐰝𐰇𐰲𐰤:𐰇𐰕𐰢𐰝:𐰴𐰎𐰣𐰴𐰃𐰽𐰑𐰢:𐰋𐰃𐰠𐰏𐰀𐱃𐰆𐰪𐰸𐰸:𐰉𐰆𐰖𐰞𐰀𐰉𐰎𐰃𐱃𐰺𐰴𐰣:‏
+# text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
@@ -84,7 +96,7 @@
 0	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_jti
-# text = ‏𐰋𐰃𐰼𐰠𐰀:𐰃𐰠𐱅𐰼𐰾𐰴𐰍𐰣:𐰉𐰆𐰞𐰖𐰆:𐰋𐰼𐰘𐰀:𐱃𐰉𐰎𐰲𐰎:𐰇𐰭𐰼𐰀:𐰴𐰃𐱃𐰪𐰎:𐰖𐰃𐰺𐰖𐰀:𐰆𐰎𐰕𐰎:𐰇𐰚𐰾𐰝𐰇𐰠𐰼𐱅𐰃:𐰋𐰠𐰏𐰾𐰃:𐰲𐰉𐰾𐰃:𐰋𐰤𐰝𐰼𐱅𐰢:𐰲𐰆𐰎𐰖𐰴𐰆𐰕𐰃𐰤:𐰴𐰺𐰃𐰴𐰆𐰢𐰎:𐰆𐰞𐰺𐰆𐰺:𐰼𐱅𐰢𐰕:‏
+# text = ‏𐰋𐰃𐰠𐰏𐰀:𐱃𐰆𐰪𐰸𐰸:𐰋𐰤𐰇𐰕𐰢:𐱃𐰉𐰎𐰲𐰃𐰠𐰭𐰀:𐰶𐰃𐰠𐰧𐰢:𐱅𐰇𐰼𐰚𐰉𐰆𐰑𐰣:𐱃𐰉𐰎𐰲𐰴𐰀:𐰝𐰇𐰼𐰼𐰼𐱅𐰃:‏
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
