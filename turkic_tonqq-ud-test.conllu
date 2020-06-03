@@ -90,17 +90,37 @@
 
 # sent_id = tonqq_kyk_bir_tyrt
 # text = ‏𐰉𐰆𐰑𐰴𐰞𐰢𐰑𐰃:𐰃𐰑𐰀𐱃𐱁𐰑𐰀:𐰴𐰞𐰢𐰾𐰃:𐰸𐰆𐰉𐰺𐰆𐰯:𐰘𐱅𐰃𐰘𐰇𐰕𐰉𐰆𐰡𐰃:𐰚𐰃𐰇𐰠𐰏𐰃:𐱃𐰞𐰍𐰼𐱅𐰃:𐰋𐰃𐰼𐰇𐰠𐰏𐰃:𐰖𐰑𐰍𐰼𐱅𐰃:𐰘𐱅𐰃𐰘𐰇𐰕:𐰚𐰃𐰾𐰃𐰏:‏
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-0	:	:	PUNCT	:	_	0	punct	0:punct	_
+1	‏𐰉𐰆𐰑‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+2	‏𐰴𐰞𐰢𐰑𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+3	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+4	‏𐰃𐰑𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+5	‏𐱃𐱁𐰑𐰀‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+6	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+7	‏𐰴𐰞𐰢𐰾𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+8	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+9	‏𐰸𐰆𐰉𐰺𐰆𐰯‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+10	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+11	‏𐰘𐱅𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+12	‏𐰘𐰇𐰕‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+13	‏𐰉𐰆𐰡𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+14	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+15	‏𐰚𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+16	‏𐰇𐰠𐰏𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+17	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+18	‏𐱃𐰞𐰍‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+19	‏𐰼𐱅𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+20	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+21	‏𐰋𐰃𐰼‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+22	‏𐰇𐰠𐰏𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+23	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+24	‏𐰖𐰑𐰍‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+25	‏𐰼𐱅𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+26	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+27	‏𐰘𐱅𐰃‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+28	‏𐰘𐰇𐰕‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+29	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+30	‏𐰚𐰃𐰾𐰃𐰏‏	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+31	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_bs
 # text = ‏𐰆𐰑𐰕𐰎𐰢𐰀:𐰆𐰞𐰍𐰃:𐱁𐰑𐰼𐱅𐰃:𐰖𐰎𐰞𐱅𐰃𐰓𐰃:𐰖𐰎𐰢𐰾𐰃𐰋𐰤𐰼𐱅𐰢:𐰋𐰠𐰏𐰀𐱃𐰆𐰪𐰸𐰸:𐰴𐰎𐰣𐰢𐰆𐰶𐰃𐰽𐰖𐰃𐰤𐱅𐰓𐰢:𐰽𐰴𐰧𐰢:𐱃𐰆𐰺𐰸𐰉𐰆𐰸𐰞𐰃:𐰾𐰢𐰕𐰉𐰆𐰸𐰞𐰃:𐰃𐰺𐰴𐰑𐰀:‏
