@@ -68,25 +68,26 @@
 9	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 10	‎‏𐱅𐰭𐰼𐰃‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 11	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-12	‎‏𐰇𐰠𐱅𐰢𐰾‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-13	‎‏𐰼𐰨‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-13	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-15	‎‏𐱅𐰇𐰼𐰚‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-16	‎‏𐰉𐰆𐰑𐰣‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-17	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-18	‎‏𐰇𐰠𐱅𐰃‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-19	‎‏𐰞𐰴𐰧𐰃‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-20	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-21	‎‏𐰖𐰸‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-22	‎‏𐰉𐰆𐰡𐰃‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-23	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-24	‎‏𐱅𐰇𐰼𐰚‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-25	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-26	‎‏𐰾𐰃𐰼‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-27	‎‏𐰉𐰆𐰑𐰣‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-28	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-29	‎‏𐰘𐰼𐰃𐰤𐱅𐰀‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
-30	:	:	PUNCT	:	_	0	punct	0:punct	_
+12	‎‏𐰇𐰠‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+13	‎‏𐱅𐰢𐰾‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+14	‎‏𐰼𐰨‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+15	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+16	‎‏𐱅𐰇𐰼𐰚‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+17	‎‏𐰉𐰆𐰑𐰣‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+18	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+19	‎‏𐰇𐰠𐱅𐰃‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+20	‎‏𐰞𐰴𐰧𐰃‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+21	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+22	‎‏𐰖𐰸‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+23	‎‏𐰉𐰆𐰡𐰃‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+24	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+25	‎‏𐱅𐰇𐰼𐰚‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+26	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+27	‎‏𐰾𐰃𐰼‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+28	‎‏𐰉𐰆𐰑𐰣‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+29	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+30	‎‏𐰘𐰼𐰃𐰤𐱅𐰀‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+31	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_tyrt
 # text = ‎‏𐰉𐰆𐰑𐰴𐰞𐰢𐰑𐰃:𐰃𐰑𐰀𐱃𐱁𐰑𐰀:𐰴𐰞𐰢𐰾𐰃:𐰸𐰆𐰉𐰺𐰆𐰯:𐰘𐱅𐰃𐰘𐰇𐰕𐰉𐰆𐰡𐰃:𐰚𐰃𐰇𐰠𐰏𐰃:𐱃𐰞𐰍𐰼𐱅𐰃:𐰋𐰃𐰼𐰇𐰠𐰏𐰃:𐰖𐰑𐰍𐰼𐱅𐰃:𐰘𐱅𐰃𐰘𐰇𐰕:𐰚𐰃𐰾𐰃𐰏:‏‎
