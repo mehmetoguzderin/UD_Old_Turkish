@@ -158,8 +158,8 @@
 31	:	:	PUNCT	:	_	0	punct	0:punct	_
 
 # sent_id = tonqq_kyk_bir_lti
-# text = ‎‏𐰋𐰇𐰠𐰾𐰼:𐰾𐰢𐰕𐰉𐰆𐰸𐰀:𐱃𐰆𐰺𐰸𐰉𐰸𐰀𐱅𐰘𐰤:𐰋𐰃𐰠𐰢𐰕𐰼𐰢𐰾𐱅𐰘𐰤:𐰨𐰀𐰾𐰴𐰧𐰢:𐰧𐰀𐰚𐰃𐰾𐰼𐰀:𐱅𐰭𐰼𐰃:𐰋𐰃𐰠𐰏𐰋𐰼𐱅𐰝𐰇𐰲𐰤:𐰇𐰕𐰢𐰝:𐰴𐰎𐰣𐰴𐰃𐰽𐰑𐰢:𐰋𐰃𐰠𐰏𐰀𐱃𐰆𐰪𐰸𐰸:𐰉𐰆𐰖𐰞𐰀𐰉𐰎𐰃𐱃𐰺𐰴𐰣:‏‎
-1	‎‏𐰋𐰇𐰠𐰾𐰼‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
+# text = ‎‏𐰋𐰃𐰠𐰾𐰼:𐰾𐰢𐰕𐰉𐰆𐰸𐰀:𐱃𐰆𐰺𐰸𐰉𐰸𐰀𐱅𐰘𐰤:𐰋𐰃𐰠𐰢𐰕𐰼𐰢𐰾𐱅𐰘𐰤:𐰨𐰀𐰾𐰴𐰧𐰢:𐰧𐰀𐰚𐰃𐰾𐰼𐰀:𐱅𐰭𐰼𐰃:𐰋𐰃𐰠𐰏𐰋𐰼𐱅𐰝𐰇𐰲𐰤:𐰇𐰕𐰢𐰝:𐰴𐰎𐰣𐰴𐰃𐰽𐰑𐰢:𐰋𐰃𐰠𐰏𐰀𐱃𐰆𐰪𐰸𐰸:𐰉𐰆𐰖𐰞𐰀𐰉𐰎𐰃𐱃𐰺𐰴𐰣:‏‎
+1	‎‏𐰋𐰃𐰠𐰾𐰼‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 2	:	:	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 3	‎‏𐰾𐰢𐰕‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
 4	‎‏𐰉𐰆𐰸𐰀‏‎	‎‏‏‎	PUNCT	:	_	0	punct	0:punct	SpaceAfter=No
