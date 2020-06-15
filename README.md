@@ -40,3 +40,22 @@ If you use `UD_Turkic_Tonqq`, you are encouraged to use the following BibTeX ent
 
 `UD_Turkic_Tonqq` is released under the [Unlicense](LICENSE.md).
 
+
+# Metadata
+
+<pre>
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
+Data available since: UD v2.7
+License: UNLICENSE
+Includes text: yes
+Genre: nonfiction
+Lemmas: manual native
+UPOS: manual native
+XPOS: manual native
+Features: manual native
+Relations: manual native
+Contributors: Derin, Mehmet Oguz
+Contributing: here
+Contact: mehmetoguzderin@mehmetoguzderin.com
+===============================================================================
+</pre>
