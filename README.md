@@ -1,6 +1,6 @@
 # Summary
 
-`UD_Turkic_Tonqq` is a Turkic treebank built upon Turkic script texts or ones that are trivially convertible.
+`UD_Turkic_Tonqq` is a Turkic treebank built upon Turkic script texts or sentences that are trivially convertible.
 
 
 # Introduction
