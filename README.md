@@ -6,9 +6,10 @@
 # Introduction
 
 `UD_Turkic_Tonqq` is a treebank that closely follows the Universal Dependencies guidelines of version 2.7 as published.
-The corpus of this treebank comes from texts of Turkic script or ones that are trivially convertible.
-Here, trivially convertible is defined as follows: if a sentence consists of vocabulary that can be found in
-Turkic script texts and the sentence structure closely matches one of the Turkic script texts.
+The corpus of this treebank consists of sentences from texts of Turkic script or that are trivially convertible.
+Trivially convertible is defined as follows: if the sentence structure closely matches one of the Turkic script texts,
+the sentence consists of vocabulary from Turkic script texts or transliterations consistent with Turkic script texts,
+and the number of transliterated words does not exceed the maximum of Turkic script texts in quantity.
 
 
 # Genres
