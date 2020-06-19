@@ -18,7 +18,7 @@ Turkic script texts and the sentence structure closely matches one of the Turkic
 
 # Changelog
 
-* 2020-06-24 v2.7
+* 2020-06-30 v2.7
   * Initial release.
 
 
