@@ -19,7 +19,7 @@ and the number of transliterated words does not exceed the maximum of Turkic scr
 
 # Changelog
 
-* 2020-06-30 v2.7
+* 2020-07-27 v2.7
   * Initial release.
 
 
