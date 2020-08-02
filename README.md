@@ -47,7 +47,7 @@ If you use `UD_Turkic_Tonqq`, you are encouraged to cite the following BibTeX en
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.7
-License: UNLICENSE
+License: CC0 1.0
 Includes text: yes
 Genre: nonfiction
 Lemmas: manual native
