@@ -39,7 +39,7 @@ If you use `UD_Turkic_Tonqq`, you are encouraged to use the following BibTeX ent
 
 # License
 
-`UD_Turkic_Tonqq` is released under the [Unlicense](LICENSE.md).
+`UD_Turkic_Tonqq` is available under [the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license](LICENSE.md).
 
 
 # Metadata
