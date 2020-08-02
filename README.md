@@ -25,7 +25,7 @@ and the number of transliterated words does not exceed the maximum of Turkic scr
 
 # Citing
 
-If you use `UD_Turkic_Tonqq`, you are encouraged to use the following BibTeX entry:
+If you use `UD_Turkic_Tonqq`, you are encouraged to cite the following BibTeX entry:
 
 ```BibTeX
 @software{ud_turkic_tonqq_2020,
