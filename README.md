@@ -50,10 +50,10 @@ Data available since: UD v2.7
 License: CC0 1.0
 Includes text: yes
 Genre: nonfiction
-Lemmas: manual native
+Lemmas: not available
 UPOS: manual native
-XPOS: manual native
-Features: manual native
+XPOS: not available
+Features: not available
 Relations: manual native
 Contributors: Derin, Mehmet Oguz
 Contributing: here
