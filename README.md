@@ -46,7 +46,7 @@ Genre: nonfiction
 Lemmas: not available
 UPOS: manual native
 XPOS: not available
-Features: not available
+Features: manual native
 Relations: manual native
 Contributors: Derin, Mehmet Oguz
 Contributing: elsewhere
