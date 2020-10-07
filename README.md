@@ -6,7 +6,7 @@
 `UD_Old_Turkish_Tonqq` is a treebank that closely follows the Universal Dependencies guidelines of version 2.7 as published.
 This treebank's corpus consists of texts of Turkic script or sentences that are trivially convertible. Trivially
 convertible is defined as follows: the transliterated sentence is from a collection written before the
-18th century, or closely matches Turkic-script sentences' structure and semantics. For Turkic
+19th century, or closely matches Turkic-script sentences' structure and semantics. For Turkic
 script texts, the letter variate choice must match the original.
 
 
