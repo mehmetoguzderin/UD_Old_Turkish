@@ -29,7 +29,7 @@ If you use `UD_Old_Turkish-Tonqq`, you are encouraged to cite the following BibT
   author       = {Mehmet Oguz Derin},
   title        = {UD_Old_Turkish-Tonqq},
   year         = 2020,
-  howpublished = {\url{https://github.com/mehmetoguzderin/UD_Old_Turkish-Tonqq}}
+  howpublished = {\url{https://github.com/UniversalDependencies/UD_Old_Turkish-Tonqq}}
 }
 ```
 
