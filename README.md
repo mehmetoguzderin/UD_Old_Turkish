@@ -53,6 +53,6 @@ Features: not available
 Relations: manual native
 Contributors: Derin, Mehmet Oguz
 Contributing: elsewhere
-Contact: mehmetoguzderin@mehmetoguzderin.com
+Contact: universaldependencies@mehmetoguzderin.com
 ===============================================================================
 </pre>
