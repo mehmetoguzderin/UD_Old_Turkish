@@ -24,7 +24,7 @@ as the basis.
 # Citing
 If you use `UD_Old_Turkish-Tonqq`, you are encouraged to cite the following BibTeX entry:
 ```BibTeX
-@software{ud_turkic_tonqq_2020,
+@software{ud_old_turkish_tonqq_2020,
   author       = {Mehmet Oguz Derin},
   title        = {UD_Old_Turkish-Tonqq},
   year         = 2020,
