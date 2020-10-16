@@ -7,9 +7,10 @@
 This treebank's corpus consists of texts of Turkic script or sentences that are trivially convertible. Trivially
 convertible is defined as follows: the transliterated sentence is from a collection written before the
 19th century, or closely matches Turkic-script sentences' structure and semantics. For Turkic
-script texts, the letter variate choice must match the original. Interpretations have
+script texts, the letter variate choice must match the original.
 "Ahmet Bican Ercilasun, Türk Kağanlığı ve Türk Bengü Taşları, Dergâh Yayınları."
-as the basis.
+is the basis of word segmentation and understanding
+for Old Turkish texts in this work.
 
 
 # Genres
