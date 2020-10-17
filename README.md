@@ -35,8 +35,8 @@ If you use `UD_Old_Turkish-Tonqq`, you are encouraged to cite the following BibT
 
 
 # License
-`UD_Old_Turkish-Tonqq` is available under
-[the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license](LICENSE.md).
+`UD_Old_Turkish-Tonqq` is available under the
+[Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
 # Metadata
