@@ -1,5 +1,5 @@
 # Summary
-`UD_Old_Turkish-Tonqq` is [an Old Turkish](https://iso639-3.sil.org/code/otk) treebank built upon Turkic script texts or sentences that are trivially convertible.
+`UD_Old_Turkish-Tonqq` is an [Old Turkish](https://iso639-3.sil.org/code/otk) treebank built upon Turkic script texts or sentences that are trivially convertible.
 
 
 # Introduction
