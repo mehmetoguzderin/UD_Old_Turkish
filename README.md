@@ -8,10 +8,12 @@ This treebank's corpus consists of texts of Turkic script or sentences that are 
 convertible is defined as follows: the transliterated sentence is from a collection written before the
 19th century, or closely matches Turkic-script sentences' structure and semantics. For Turkic
 script texts, the letter variate choice must match the original.
-"Ahmet Bican Ercilasun, Türk Kağanlığı ve Türk Bengü Taşları, Dergâh Yayınları."
-is the basis of word segmentation and understanding
-for Old Turkish texts in this work.
 
+TODO: Add interpretation references
+
+TODO: Add grammar references
+
+TODO: Add dictionary references
 
 # Genres
 * Nonfiction
