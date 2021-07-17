@@ -15,6 +15,8 @@ TODO: Add grammar references
 
 TODO: Add dictionary references
 
+TODO: Add The Executable Book Project compatible tooling
+
 # Genres
 * Nonfiction
 
