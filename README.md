@@ -21,7 +21,7 @@ TODO: UDW 2021
 
 TODO: Long vowels.
 
-TODO: Singular they in English translations.
+TODO: [Singular they with themself](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) in English translations.
 
 # Genres
 * Nonfiction
