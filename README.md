@@ -19,6 +19,10 @@ TODO: Add The Executable Book Project compatible tooling
 
 TODO: UDW 2021
 
+TODO: Long vowels.
+
+TODO: Singular they in English translations.
+
 # Genres
 * Nonfiction
 
