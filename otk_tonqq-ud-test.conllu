@@ -9,7 +9,7 @@
 # sent_id = aygl_teedi__
 # text = 𐰖𐰍𐰞𐱅𐰀𐰓𐰃:
 # translit = aygl_teedi__
-# text_en = That person did say you shall tell.
+# text_en = They did say you shall tell.
 1	𐰖	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
 2	𐰍𐰞	_	AUX	_	_	1	aux	_	SpaceAfter=No
 3	𐱅𐰀	_	VERB	_	_	0	root	_	SpaceAfter=No
