@@ -6,13 +6,13 @@
 2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 3	𐰋𐰤	_	DET	_	_	1	cop	_	
 
-# sent_id = aygl_tidi__
-# text = 𐰖𐰍𐰞𐱅𐰃𐰓𐰃:
-# translit = aygl_tidi__
+# sent_id = aygl_teedi__
+# text = 𐰖𐰍𐰞𐱅𐰀𐰓𐰃:
+# translit = aygl_teedi__
 # text_en = He did say you shall tell.
 1	𐰖	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
 2	𐰍𐰞	_	AUX	_	_	1	aux	_	SpaceAfter=No
-3	𐱅𐰃	_	VERB	_	_	0	root	_	SpaceAfter=No
+3	𐱅𐰀	_	VERB	_	_	0	root	_	SpaceAfter=No
 4	𐰓𐰃	_	AUX	_	_	3	aux	_	SpaceAfter=No
 5	:	_	PUNCT	_	_	3	punct	_	
 
