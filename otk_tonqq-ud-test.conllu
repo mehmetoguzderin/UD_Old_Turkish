@@ -1,5 +1,17 @@
+# sent_id = aygl_tidi__
+# text = 𐰖𐰍𐰞𐱅𐰃𐰓𐰃:
+# translit = aygl_tidi__
+# text_en = He did say you shall tell.
+1	𐰖	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
+2	𐰍𐰞	_	AUX	_	_	1	aux	_	SpaceAfter=No
+3	𐱅𐰃	_	VERB	_	_	0	root	_	SpaceAfter=No
+4	𐰓𐰃	_	AUX	_	_	3	aux	_	SpaceAfter=No
+5	:	_	PUNCT	_	_	3	punct	_	
+
 # sent_id = sakntm__
 # text = 𐰽𐰴𐰣𐱃𐰢:
+# translit = sakntm__
+# text_en = I did think.
 1	𐰽𐰴𐰣	_	VERB	_	_	0	root	_	SpaceAfter=No
 2	𐱃	_	AUX	_	_	1	aux	_	SpaceAfter=No
 3	𐰢	_	AUX	_	_	1	aux	_	SpaceAfter=No
