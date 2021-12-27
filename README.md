@@ -17,7 +17,7 @@ TODO: Add dictionary references
 
 TODO: Add The Executable Book Project compatible tooling
 
-TODO: UDW 2021
+TODO: UDW 2021 (including app and libraries)
 
 TODO: Long vowels.
 
