@@ -59,3 +59,17 @@
 2	𐱃	_	AUX	_	_	1	aux	_	SpaceAfter=No
 3	𐰢	_	AUX	_	_	1	aux	_	SpaceAfter=No
 4	:	_	PUNCT	_	_	1	punct	_	
+
+# sent_id = biz__eeki_bwq__ertmz__
+# text = 𐰋𐰃𐰔:𐰀𐰚𐰃𐰉𐰃𐰬:𐰼𐱅𐰢𐰔:
+# translit = biz__eeki_bwq__ertmz__
+# text_en = We were two thousand.
+1	𐰋𐰃𐰔	_	PRON	_	_	4	nsubj	_	SpaceAfter=No
+2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	𐰀𐰚𐰃	_	NUM	_	_	4	nummod	_	SpaceAfter=No
+4	𐰉𐰃𐰬	_	NUM	_	_	0	root	_	SpaceAfter=No
+5	:	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	𐰼	_	AUX	_	_	4	cop	_	SpaceAfter=No
+7	𐱅	_	AUX	_	_	4	aux	_	SpaceAfter=No
+8	𐰢𐰔	_	AUX	_	_	4	aux	_	SpaceAfter=No
+9	:	_	PUNCT	_	_	4	punct	_	
