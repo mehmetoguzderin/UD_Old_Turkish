@@ -24,9 +24,9 @@
 12	𐰓𐰃	_	AUX	_	_	11	aux	_	SpaceAfter=No
 13	:	_	PUNCT	_	_	4	punct	_	
 
-# sent_id = ickduk_ucn__teqri__ul_teemx_ernc__
-# text = 𐰃𐰲𐰚𐰓𐰇𐰚𐰇𐰲𐰤:𐱅𐰭𐰼𐰃:𐰇𐰠𐱅𐰀𐰢𐱀𐰼𐰤𐰲:
-# translit = ickduk_ucn__teqri__ul_teemx_ernc__
+# sent_id = ickduk_ucn__teqri__ul_teemix_ernc__
+# text = 𐰃𐰲𐰚𐰓𐰇𐰚𐰇𐰲𐰤:𐱅𐰭𐰼𐰃:𐰇𐰠𐱅𐰀𐰢𐰃𐱀𐰼𐰤𐰲:
+# translit = ickduk_ucn__teqri__ul_teemix_ernc__
 # text_en = For they had ceded, it must be that Sky has said you die.
 1	𐰃𐰲𐰚	_	VERB	_	_	10	advcl	_	SpaceAfter=No
 2	𐰓𐰇𐰚	_	AUX	_	_	1	aux	_	SpaceAfter=No
@@ -36,7 +36,7 @@
 6	:	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
 7	𐰇𐰠	_	VERB	_	_	8	ccomp	_	SpaceAfter=No
 8	𐱅𐰀	_	VERB	_	_	10	ccomp	_	SpaceAfter=No
-9	𐰢𐱀	_	AUX	_	_	8	aux	_	SpaceAfter=No
+9	𐰢𐰃𐱀	_	AUX	_	_	8	aux	_	SpaceAfter=No
 10	𐰼	_	VERB	_	_	0	root	_	SpaceAfter=No
 11	𐰤𐰲	_	AUX	_	_	10	aux	_	SpaceAfter=No
 12	:	_	PUNCT	_	_	10	punct	_	
