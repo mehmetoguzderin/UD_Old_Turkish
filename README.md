@@ -61,7 +61,7 @@ UPOS: manual native
 XPOS: not available
 Features: not available
 Relations: manual native
-Contributors: Derin, Mehmet Oguz
+Contributors: Derin, Mehmet Oguz; Harada, Takahiro
 Contributing: elsewhere
 Contact: universaldependencies@mehmetoguzderin.com
 ===============================================================================
