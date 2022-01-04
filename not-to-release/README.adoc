@@ -113,7 +113,7 @@
 
 === Notes
 
-Representation of vowels in the first syllable at initial or middle and not final:
+Explicit representation of vowels in the first syllable at initial or middle and not final (open-closed of height-indiscriminate and non-short are unconventional Turk script that, for increased retrievability, generalizes spelling rarely found in corpus to show closer versions):
 
 [cols=3]
 |===
