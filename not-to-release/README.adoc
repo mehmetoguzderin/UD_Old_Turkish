@@ -4,7 +4,7 @@ Old Turkish Language and Old Turkic Script
 
 == Transliteration
 
-Feature assignment to transliterations is only figurative, and the exact realization of sounds is out of this document's scope.
+Feature assignments to transliterations are only figurative, and the exact realization of sounds is out of this document's scope.
 
 === Vowels
 
