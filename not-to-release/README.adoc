@@ -12,11 +12,10 @@ Further representations are listed in <<explicit-vowels,explicit vowels>>.
 
 [cols=5]
 |===
-1.1+^.^|
+1.2+^.^|
 2.1+^.^|Unround
 2.1+^.^|Round
 
-1.1+^.^|
 1.1+^.^|Back
 1.1+^.^|Front
 1.1+^.^|Back
@@ -35,7 +34,7 @@ Further representations are listed in <<explicit-vowels,explicit vowels>>.
 
 === Consonants
 
-Occlusive representations are primary for duplicates across different manners, and fricatives only exist for ergonomics.
+Occlusive representations are primary for duplicates across different manners, and their duplicate fricatives only exist for ergonomics.
 
 [cols=14]
 |===
