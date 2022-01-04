@@ -4,7 +4,11 @@ Old Turkish Language and Old Turkic Script
 
 == Transliteration
 
+Feature assignment to transliterations is only figurative, and the exact realization of sounds is out of this document's scope.
+
 === Vowels
+
+Further representations are listed in <<explicit-vowels,explicit vowels>>.
 
 [cols=5]
 |===
@@ -30,6 +34,8 @@ Old Turkish Language and Old Turkic Script
 |===
 
 === Consonants
+
+Occlusive representations are primary for duplicates across different manners, and fricatives only exist for ergonomics.
 
 [cols=14]
 |===
