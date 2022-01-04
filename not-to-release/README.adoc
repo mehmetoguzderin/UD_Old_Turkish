@@ -115,7 +115,7 @@ Old Turkish Language and Old Turkic Script
 
 === Notes
 
-Explicit representation of initial syllable's non-final vowels (open-closed of height-indiscriminate and non-short are unconventional Turk writing that, for increased retrievability, generalize spelling rarely found in corpus to show closer versions), short open unround vowels lack Turk value as they are implicit when not final:
+Explicit representation of initial syllable's non-final vowels (open-closed of height-indiscriminate and non-short are unconventional Turk writing that, for increased retrievability, generalize spelling rarely found in corpus to show closer versions), short open unround vowels in the following table lack Turk value as they are implicit when not final:
 
 [cols=17]
 |===
