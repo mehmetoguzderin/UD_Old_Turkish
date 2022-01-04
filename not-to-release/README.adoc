@@ -1,6 +1,8 @@
 = Old Turkish and Old Turkic
 
-== Vowels
+== Transliteration
+
+=== Vowels
 
 [cols=5]
 |===
@@ -25,7 +27,7 @@
 1.1+^.^|&#68611; i
 |===
 
-== Consonants
+=== Consonants
 
 [cols=14]
 |===
@@ -107,4 +109,79 @@
 1.1+^.^|&#68642; am
 1.1+^.^|&#68642; em
 4.1+^.^|
+|===
+
+=== Notes
+
+Representation of vowels in the first syllable at initial or middle and not final:
+
+[cols=3]
+|===
+|link:+++https://doi.org/10.1038/s41586-021-04108-8+++[Transeurasian]
+|Ascii
+|Turk
+
+|a
+|a
+|
+
+|a:
+|aa
+|
+
+|e
+|e
+|
+
+|e:
+|ee
+|
+
+|ï
+|w
+|
+
+|ï:
+|ww
+|
+
+|i
+|i
+|
+
+|i:
+|ii
+|
+
+|o
+|o
+|
+
+|o:
+|ooo
+|
+
+|ö
+|u
+|
+
+|ö:
+|uuu
+|
+
+|u
+|oo
+|
+
+|u:
+|oooo
+|
+
+|ü
+|uu
+|
+
+|ü:
+|uuuu
+|
 |===
