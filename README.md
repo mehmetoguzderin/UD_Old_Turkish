@@ -33,19 +33,13 @@ TODO: [Singular they with themself](https://apastyle.apa.org/style-grammar-guide
 
 
 # Citing
-If you use `UD_Old_Turkish-Tonqq`, you are encouraged to cite the following BibTeX entry:
+If you use this repository, you are encouraged to cite the following BibTeX entry:
 ```BibTeX
-@software{ud_old_turkish_tonqq_2020,
-  author       = {Mehmet Oguz Derin},
-  title        = {UD_Old_Turkish-Tonqq},
-  year         = 2020,
-  howpublished = {\url{https://github.com/UniversalDependencies/UD_Old_Turkish-Tonqq}}
-}
 ```
 
 
 # License
-`UD_Old_Turkish-Tonqq` is available under the
+This repository is available under the
 [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
