@@ -1,5 +1,5 @@
 # Summary
-This repository contains an [Old Turkish](https://iso639-3.sil.org/code/otk) treebank built upon Turkic script texts or sentences that are trivially convertible.
+This repository contains an [Old Turkish](https://iso639-3.sil.org/code/otk) treebank built upon Old Turkic script texts or sentences that are trivially convertible.
 
 
 # Introduction
