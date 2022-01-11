@@ -35,6 +35,18 @@ TODO: [Singular they with themself](https://apastyle.apa.org/style-grammar-guide
 # Citing
 If you use this repository, you are encouraged to cite the following BibTeX entry:
 ```BibTeX
+@inproceedings{derin-harada-2021-universal,
+    title = "{U}niversal {D}ependencies for {O}ld {T}urkish",
+    author = "Derin, Mehmet Oguz  and
+      Harada, Takahiro",
+    booktitle = "Proceedings of the Fifth Workshop on Universal Dependencies (UDW, SyntaxFest 2021)",
+    month = dec,
+    year = "2021",
+    address = "Sofia, Bulgaria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.udw-1.11",
+    pages = "129--141",
+}
 ```
 
 
