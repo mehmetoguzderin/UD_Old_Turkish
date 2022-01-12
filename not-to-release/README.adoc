@@ -120,61 +120,61 @@ Occlusive representations are primary for duplicates across different manners, a
 
 === Explicit Vowels
 
-Explicit representation of phrase head words' initial syllable's non-final vowels (open-closed of height-indiscriminate and non-short are unconventional Turk writing that, for increased retrievability, generalize spelling rarely found in corpus to show closer versions), short open unround vowels in the following table lack Turk value as they are implicit when not final:
+Explicit Ascii-and-link:+++https://doi.org/10.1038/s41586-021-04108-8+++[Transeurasian]-corresponding representation of bottom level phrase head words' initial syllable's non-final vowels (open-closed of height-indiscriminate and non-short are unconventional Turk writing that, for increased retrievability, generalize spelling rarely found in corpus to show closer versions), short open unround vowels in the following table lack Turk value as they are implicit when not final:
 
 [cols=17]
 |===
-1.1+^.^|link:+++https://doi.org/10.1038/s41586-021-04108-8+++[Transeurasian]
+1.3+^.^|
+8.1+^.^|Short
+8.1+^.^|Long
+
+4.1+^.^|Unround
+4.1+^.^|Round
+4.1+^.^|Unround
+4.1+^.^|Round
+
+2.1+^.^|Back
+2.1+^.^|Front
+2.1+^.^|Back
+2.1+^.^|Front
+2.1+^.^|Back
+2.1+^.^|Front
+2.1+^.^|Back
+2.1+^.^|Front
+
+1.1+^.^|Open
+1.1+^.^| a
 1.1+^.^|a
-1.1+^.^|a:
+1.1+^.^| e
 1.1+^.^|e
-1.1+^.^|e:
-1.1+^.^|ï
-1.1+^.^|ï:
-1.1+^.^|i
-1.1+^.^|i:
+1.1+^.^|&#68614; o
 1.1+^.^|o
-1.1+^.^|o:
+1.1+^.^|&#68615; u
 1.1+^.^|ö
+1.1+^.^|&#68608; aa
+1.1+^.^|a:
+1.1+^.^|&#68608; ee
+1.1+^.^|e:
+1.1+^.^|&#68614;&#68614;&#68614; ooo
+1.1+^.^|o:
+1.1+^.^|&#68615;&#68615;&#68615; uuu
 1.1+^.^|ö:
-1.1+^.^|u
-1.1+^.^|u:
-1.1+^.^|ü
-1.1+^.^|ü:
 
-1.1+^.^|Ascii
-1.1+^.^|a
-1.1+^.^|aa
-1.1+^.^|e
-1.1+^.^|ee
-1.1+^.^|w
-1.1+^.^|ww
+1.1+^.^|Closed
+1.1+^.^|&#68611; w
+1.1+^.^|ï
+1.1+^.^|&#68611; i
 1.1+^.^|i
-1.1+^.^|ii
-1.1+^.^|o
-1.1+^.^|ooo
+1.1+^.^|&#68614;&#68614; oo
 1.1+^.^|u
-1.1+^.^|uuu
-1.1+^.^|oo
-1.1+^.^|oooo
-1.1+^.^|uu
-1.1+^.^|uuuu
-
-1.1+^.^|Turk
-1.1+^.^|
-1.1+^.^|&#68608;
-1.1+^.^|
-1.1+^.^|&#68608;
-1.1+^.^|&#68611;
-1.1+^.^|&#68611;&#68611;
-1.1+^.^|&#68611;
-1.1+^.^|&#68611;&#68611;
-1.1+^.^|&#68614;
-1.1+^.^|&#68614;&#68614;&#68614;
-1.1+^.^|&#68615;
-1.1+^.^|&#68615;&#68615;&#68615;
-1.1+^.^|&#68614;&#68614;
-1.1+^.^|&#68614;&#68614;&#68614;&#68614;
-1.1+^.^|&#68615;&#68615;
-1.1+^.^|&#68615;&#68615;&#68615;&#68615;
+1.1+^.^|&#68615;&#68615; uu
+1.1+^.^|ü
+1.1+^.^|&#68611;&#68611; ww
+1.1+^.^|ï:
+1.1+^.^|&#68611;&#68611; ii
+1.1+^.^|i:
+1.1+^.^|&#68614;&#68614;&#68614;&#68614; oooo
+1.1+^.^|u:
+1.1+^.^|&#68615;&#68615;&#68615;&#68615; uuuu
+1.1+^.^|ü:
 |===
