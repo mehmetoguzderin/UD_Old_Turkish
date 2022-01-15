@@ -33,7 +33,7 @@ TODO: [Singular they with themself](https://apastyle.apa.org/style-grammar-guide
 
 
 # Citing
-If you use this repository, you are encouraged to cite the following BibTeX entry:
+If you use this repository, you are encouraged to cite the BibTeX entry of our paper as follows:
 ```BibTeX
 @inproceedings{derin-harada-2021-universal,
     title = "{U}niversal {D}ependencies for {O}ld {T}urkish",
