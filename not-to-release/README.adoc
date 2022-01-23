@@ -120,7 +120,7 @@ Occlusive representations are primary for duplicates across different manners, a
 
 === Explicit Vowels
 
-Explicit Ascii-and-link:+++https://doi.org/10.1038/s41586-021-04108-8+++[Transeurasian]-corresponding representation of bottom level phrase head words' initial syllable's non-final vowels (open-closed of height-indiscriminate and non-short are unconventional Turk writing that, for increased retrievability, generalize spelling rarely found in corpus to show closer versions), short open unround vowels in the following table lack Turk value as they are implicit when not final:
+Explicit Ascii-and-link:+++https://doi.org/10.1038/s41586-021-04108-8+++[Transeurasian]-corresponding representation of bottom level phrase head words' initial syllable's non-final vowels (open-closed of height-indiscriminate and non-short are unconventional Turk writing involving digraphs, trigraphs, and quadgraphs that, for increased retrievability, generalize spelling rarely found in corpus to show closer versions), short open unround vowels in the following table lack Turk value as they are implicit when not final:
 
 [cols=17]
 |===
