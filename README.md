@@ -5,7 +5,7 @@ Keyboard: https://keyman.com/keyboards/old_turkic_udw21_qwerty
 
 Paper: https://aclanthology.org/2021.udw-1.11
 
-Transliteration Tables: https://github.com/mehmetoguzderin/UD_Old_Turkish/tree/dev/not-to-release#transliteration
+Transliteration Tables: [README.adoc#transliteration](https://github.com/mehmetoguzderin/UD_Old_Turkish/tree/dev/not-to-release#transliteration)
 
 Transliteration Implementation App (iOS): https://apps.apple.com/app/ascii-turk/id1601998507
 
