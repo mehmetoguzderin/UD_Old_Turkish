@@ -1,6 +1,13 @@
 # Summary
 This repository contains an [Old Turkish](https://iso639-3.sil.org/code/otk) treebank built upon Old Turkic script texts or sentences that are trivially convertible.
 
+Keyboard: https://keyman.com/keyboards/old_turkic_udw21_qwerty
+
+Paper: https://aclanthology.org/2021.udw-1.11
+
+Transliteration Tables: https://github.com/mehmetoguzderin/UD_Old_Turkish/tree/dev/not-to-release#transliteration
+
+Transliteration Implementation App (iOS): https://apps.apple.com/app/ascii-turk/id1601998507
 
 # Introduction
 This repository contains a treebank that closely follows the Universal Dependencies guidelines of version 2.7 as published.
@@ -22,6 +29,8 @@ TODO: UDW 2021 (including app and libraries)
 TODO: Long vowels.
 
 TODO: [Singular they with themself](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) in English translations.
+
+TODO: Organize links.
 
 # Genres
 * Nonfiction
