@@ -83,6 +83,6 @@
 3	𐰆𐰍𐰞	_	NOUN	_	_	0	root	_	SpaceAfter=No
 4	𐰃	_	DET	_	_	3	det	_	SpaceAfter=No
 5	:	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-6	𐰋𐰤	_	DET	_	_	4	cop	_	SpaceAfter=No
-7	:	_	PUNCT	_	_	4	punct	_	_
+6	𐰋𐰤	_	DET	_	_	3	cop	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	3	punct	_	_
 
