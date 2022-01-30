@@ -74,21 +74,20 @@
 8	𐰢𐰔	_	AUX	_	_	4	aux	_	SpaceAfter=No
 9	:	_	PUNCT	_	_	4	punct	_	_
 
-# sent_id = bir__eerg__okn__oortw__
-# text = 𐰋𐰃𐰼:𐰀𐰼𐰏:𐰆𐰴𐰣:𐰆𐰆𐰺𐱃𐰃:
-# translit = bir__eerg__okn__oortw__
+# sent_id = bir__eerg__oknoortw__
+# text = 𐰋𐰃𐰼:𐰀𐰼𐰏:𐰆𐰴𐰣𐰆𐰆𐰺𐱃𐰃:
+# translit = bir__eerg__oknoortw__
 # text_en = They did strike one man with an arrow.
 1	𐰋𐰃𐰼	_	NUM	_	_	3	nummod	_	SpaceAfter=No
 2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	𐰀𐰼	_	NOUN	_	_	9	obj	_	SpaceAfter=No
+3	𐰀𐰼	_	NOUN	_	_	8	obj	_	SpaceAfter=No
 4	𐰏	_	ADP	_	_	3	case	_	SpaceAfter=No
 5	:	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-6	𐰆𐰴	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+6	𐰆𐰴	_	NOUN	_	_	8	obl	_	SpaceAfter=No
 7	𐰣	_	ADP	_	_	6	case	_	SpaceAfter=No
-8	:	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-9	𐰆𐰆𐰺	_	VERB	_	_	0	root	_	SpaceAfter=No
-10	𐱃𐰃	_	AUX	_	_	9	aux	_	SpaceAfter=No
-11	:	_	PUNCT	_	_	9	punct	_	_
+8	𐰆𐰆𐰺	_	VERB	_	_	0	root	_	SpaceAfter=No
+9	𐱃𐰃	_	AUX	_	_	8	aux	_	SpaceAfter=No
+10	:	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = kwrkz__oglw__ben__
 # text = 𐰴𐰃𐰺𐰴𐰔:𐰆𐰍𐰞𐰃:𐰋𐰤:
