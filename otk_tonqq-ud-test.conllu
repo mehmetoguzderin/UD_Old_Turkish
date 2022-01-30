@@ -77,7 +77,7 @@
 # sent_id = bir__eerg__oknoortw__
 # text = 𐰋𐰃𐰼:𐰀𐰼𐰏:𐰆𐰴𐰣𐰆𐰆𐰺𐱃𐰃:
 # translit = bir__eerg__oknoortw__
-# text_en = They did strike one man with an arrow.
+# text_en = They did hit one man with an arrow.
 1	𐰋𐰃𐰼	_	NUM	_	_	3	nummod	_	SpaceAfter=No
 2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 3	𐰀𐰼	_	NOUN	_	_	8	obj	_	SpaceAfter=No
