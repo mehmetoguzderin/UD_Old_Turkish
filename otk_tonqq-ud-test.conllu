@@ -74,9 +74,9 @@
 8	𐰢𐰔	_	AUX	_	_	4	aux	_	SpaceAfter=No
 9	:	_	PUNCT	_	_	4	punct	_	_
 
-# sent_id = bir__eerg__oknoortw__
+# sent_id = bir__eerg__okn_oortw__
 # text = 𐰋𐰃𐰼:𐰀𐰼𐰏:𐰆𐰴𐰣𐰆𐰆𐰺𐱃𐰃:
-# translit = bir__eerg__oknoortw__
+# translit = bir__eerg__okn_oortw__
 # text_en = They did hit one man by an arrow.
 1	𐰋𐰃𐰼	_	NUM	_	_	3	nummod	_	SpaceAfter=No
 2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
