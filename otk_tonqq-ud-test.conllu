@@ -106,6 +106,16 @@
 9	𐱃𐰃	_	AUX	_	_	8	aux	_	SpaceAfter=No
 10	:	_	PUNCT	_	_	8	punct	_	_
 
+# sent_id = tuuurt__boolqka__
+# text = 𐱅𐰇𐰇𐰇𐰼𐱅:𐰉𐰆𐰆𐰞𐰬𐰴𐰀:
+# translit = tuuurt__boolqka__
+# text_en = To four corners.
+1	𐱅𐰇𐰇𐰇𐰼𐱅	_	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	𐰉𐰆𐰆𐰞𐰬	_	NOUN	_	_	0	root	_	SpaceAfter=No
+4	𐰴𐰀	_	ADP	_	_	3	case	_	SpaceAfter=No
+5	:	_	PUNCT	_	_	3	punct	_	_
+
 # sent_id = kwrkz__oglw__ben__
 # text = 𐰴𐰃𐰺𐰴𐰔:𐰆𐰍𐰞𐰃:𐰋𐰤:
 # translit = kwrkz__oglw__ben__
