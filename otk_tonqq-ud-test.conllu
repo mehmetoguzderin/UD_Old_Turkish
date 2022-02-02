@@ -100,7 +100,7 @@
 3	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 4	𐰋𐰀𐱀	_	NUM	_	_	5	obl	_	SpaceAfter=No
 5	𐰾𐰇𐰇𐰭𐱀	_	VERB	_	_	0	root	_	SpaceAfter=No
-6	𐰓𐰃	_	AUX	_	_	4	aux	_	SpaceAfter=No
+6	𐰓𐰃	_	AUX	_	_	5	aux	_	SpaceAfter=No
 7	:	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bir__eerg__okn_oortw__
