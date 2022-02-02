@@ -91,6 +91,18 @@
 11	𐰋𐰃𐰼	_	NUM	_	_	5	conj	_	SpaceAfter=No
 12	:	_	PUNCT	_	_	5	punct	_	_
 
+# sent_id = ogzka__beex_suuqxdi__
+# text = 𐰆𐰍𐰔𐰴𐰀:𐰋𐰀𐱀𐰾𐰇𐰇𐰭𐱀𐰓𐰃:
+# translit = ogzka__beex_suuqxdi__
+# text_en = They did fight to Oguz five times.
+1	𐰆𐰍𐰔	_	PROPN	_	_	5	obl	_	SpaceAfter=No
+2	𐰴𐰀	_	ADP	_	_	1	case	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	𐰋𐰀𐱀	_	NUM	_	_	5	obl	_	SpaceAfter=No
+5	𐰾𐰇𐰇𐰭𐱀	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	𐰓𐰃	_	AUX	_	_	4	aux	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	5	punct	_	_
+
 # sent_id = bir__eerg__okn_oortw__
 # text = 𐰋𐰃𐰼:𐰀𐰼𐰏:𐰆𐰴𐰣𐰆𐰆𐰺𐱃𐰃:
 # translit = bir__eerg__okn_oortw__
