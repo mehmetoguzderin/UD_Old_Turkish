@@ -64,7 +64,7 @@
 # text = 𐰾𐰇𐰇𐰾𐰃:𐰞𐱃𐰃𐰉𐰃𐰬:𐰼𐰢𐰃𐱀:
 # translit = suusi__altw_bwq__ermix__
 # text_en = Their army has been six thousand.
-1	𐰾𐰇𐰇	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No
+1	𐰾𐰇𐰇	_	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 2	𐰾𐰃	_	DET	_	_	1	det	_	SpaceAfter=No
 3	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 4	𐰞𐱃𐰃	_	NUM	_	_	5	nummod	_	SpaceAfter=No
