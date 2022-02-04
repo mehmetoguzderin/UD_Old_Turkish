@@ -105,6 +105,18 @@
 11	𐰋𐰃𐰼	_	NUM	_	_	5	conj	_	SpaceAfter=No
 12	:	_	PUNCT	_	_	5	punct	_	_
 
+# sent_id = kwtjka__yeeti_suuqxdi__
+# text = 𐰴𐰃𐱃𐰪𐰴𐰀:𐰘𐰀𐱅𐰃𐰾𐰇𐰇𐰭𐱀𐰓𐰃:
+# translit = kwtjka__yeeti_suuqxdi__
+# text_en = They did fight to Khitan seven times.
+1	𐰴𐰃𐱃𐰪	_	PROPN	_	_	5	obl	_	SpaceAfter=No
+2	𐰴𐰀	_	ADP	_	_	1	case	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	𐰘𐰀𐱅𐰃	_	NUM	_	_	5	obl	_	SpaceAfter=No
+5	𐰾𐰇𐰇𐰭𐱀	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	𐰓𐰃	_	AUX	_	_	5	aux	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	5	punct	_	_
+
 # sent_id = ogzka__beex_suuqxdi__
 # text = 𐰆𐰍𐰔𐰴𐰀:𐰋𐰀𐱀𐰾𐰇𐰇𐰭𐱀𐰓𐰃:
 # translit = ogzka__beex_suuqxdi__
