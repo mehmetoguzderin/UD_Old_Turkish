@@ -51,11 +51,11 @@
 4	𐰓𐰃	_	AUX	_	_	3	aux	_	SpaceAfter=No
 5	:	_	PUNCT	_	_	3	punct	_	_
 
-# sent_id = sakntm__
-# text = 𐰽𐰴𐰣𐱃𐰢:
-# translit = sakntm__
+# sent_id = saakntm__
+# text = 𐰽𐰀𐰴𐰣𐱃𐰢:
+# translit = saakntm__
 # text_en = I did think.
-1	𐰽𐰴𐰣	_	VERB	_	_	0	root	_	SpaceAfter=No
+1	𐰽𐰀𐰴𐰣	_	VERB	_	_	0	root	_	SpaceAfter=No
 2	𐱃	_	AUX	_	_	1	aux	_	SpaceAfter=No
 3	𐰢	_	AUX	_	_	1	aux	_	SpaceAfter=No
 4	:	_	PUNCT	_	_	1	punct	_	_
