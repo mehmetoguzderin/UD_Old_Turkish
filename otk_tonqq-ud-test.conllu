@@ -149,7 +149,7 @@
 # translit = tokzeerini__sancdi__
 # text_en = They did pierce their nine men.
 1	𐱃𐰆𐰴𐰔	_	NUM	_	_	2	nummod	_	SpaceAfter=No
-2	𐰀𐰼	_	NOUN	_	_	6	punct	_	SpaceAfter=No
+2	𐰀𐰼	_	NOUN	_	_	6	obj	_	SpaceAfter=No
 3	𐰃	_	DET	_	_	2	det	_	SpaceAfter=No
 4	𐰤𐰃	_	ADP	_	_	2	case	_	SpaceAfter=No
 5	:	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
