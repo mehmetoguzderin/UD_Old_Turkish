@@ -105,6 +105,20 @@
 11	𐰋𐰃𐰼	_	NUM	_	_	5	conj	_	SpaceAfter=No
 12	:	_	PUNCT	_	_	5	punct	_	_
 
+# sent_id = tabgcka__yeeti_yeegrmi__suuqxdi__
+# text = 𐱃𐰉𐰍𐰲𐰴𐰀:𐰘𐰀𐱅𐰃𐰘𐰀𐰏𐰼𐰢𐰃:𐰾𐰇𐰇𐰭𐱀𐰓𐰃:
+# translit = tabgcka__yeeti_yeegrmi__suuqxdi__
+# text_en = They did fight to Tang seventeen times.
+1	𐱃𐰉𐰍𐰲	_	PROPN	_	_	7	obl	_	SpaceAfter=No
+2	𐰴𐰀	_	ADP	_	_	1	case	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	𐰘𐰀𐱅𐰃	_	NUM	_	_	5	compound	_	SpaceAfter=No
+5	𐰘𐰀𐰏𐰼𐰢𐰃	_	NUM	_	_	7	obl	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	𐰾𐰇𐰇𐰭𐱀	_	VERB	_	_	0	root	_	SpaceAfter=No
+8	𐰓𐰃	_	AUX	_	_	7	aux	_	SpaceAfter=No
+9	:	_	PUNCT	_	_	7	punct	_	_
+
 # sent_id = kwtjka__yeeti_suuqxdi__
 # text = 𐰴𐰃𐱃𐰪𐰴𐰀:𐰘𐰀𐱅𐰃𐰾𐰇𐰇𐰭𐱀𐰓𐰃:
 # translit = kwtjka__yeeti_suuqxdi__
