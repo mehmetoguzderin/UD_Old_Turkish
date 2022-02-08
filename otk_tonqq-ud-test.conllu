@@ -170,9 +170,9 @@
 9	𐱃𐰃	_	AUX	_	_	8	aux	_	SpaceAfter=No
 10	:	_	PUNCT	_	_	8	punct	_	_
 
-# sent_id = tokzeerini__sancdi__
+# sent_id = tokz_eerini__sancdi__
 # text = 𐱃𐰆𐰴𐰔𐰀𐰼𐰃𐰤𐰃:𐰽𐰣𐰲𐰑𐰃:
-# translit = tokzeerini__sancdi__
+# translit = tokz_eerini__sancdi__
 # text_en = They did pierce their nine men.
 1	𐱃𐰆𐰴𐰔	_	NUM	_	_	2	nummod	_	SpaceAfter=No
 2	𐰀𐰼	_	NOUN	_	_	6	obj	_	SpaceAfter=No
@@ -194,6 +194,21 @@
 5	𐰆𐰞𐰺	_	VERB	_	_	0	root	_	SpaceAfter=No
 6	𐰢𐰃𐱁	_	AUX	_	_	5	aux	_	SpaceAfter=No
 7	:	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = beex__kwrk_eerg__ulrtm__
+# text = 𐰋𐰀𐱀:𐰴𐰃𐰺𐰴𐰀𐰼𐰏:𐰇𐰠𐰼𐱅𐰢:
+# translit = beex__kwrk_eerg__ulrtm__
+# text_en = I did kill thirty five men.
+1	𐰋𐰀𐱀	_	NUM	_	_	3	compound	_	SpaceAfter=No
+2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	𐰴𐰃𐰺𐰴	_	NUM	_	_	4	nummod	_	SpaceAfter=No
+4	𐰀𐰼	_	NOUN	_	_	7	obl	_	SpaceAfter=No
+5	𐰏	_	ADP	_	_	4	case	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	𐰇𐰠𐰼	_	VERB	_	_	0	root	_	SpaceAfter=No
+8	𐱅	_	AUX	_	_	7	aux	_	SpaceAfter=No
+9	𐰢	_	AUX	_	_	7	aux	_	SpaceAfter=No
+10	:	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = tuuurt__boolqka__
 # text = 𐱅𐰇𐰇𐰇𐰼𐱅:𐰉𐰆𐰆𐰞𐰬𐰴𐰀:
