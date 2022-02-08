@@ -210,6 +210,22 @@
 9	𐰢	_	AUX	_	_	7	aux	_	SpaceAfter=No
 10	:	_	PUNCT	_	_	7	punct	_	_
 
+# sent_id = ellg_ywl__iixg_kuuuucg__beermix__
+# text = 𐰠𐰠𐰏𐰖𐰃𐰞:𐰃𐰃𐱀𐰏𐰚𐰇𐰇𐰇𐰇𐰲𐰏:𐰋𐰀𐰼𐰢𐰃𐱀:
+# translit = ellg_ywl__iixg_kuuuucg__beermix__
+# text_en = They gave work and power for fifty years.
+1	𐰠𐰠𐰏	_	NUM	_	_	2	nummod	_	SpaceAfter=No
+2	𐰖𐰃𐰞	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	𐰃𐰃𐱀	_	NOUN	_	_	9	obj	_	SpaceAfter=No
+5	𐰏	_	ADP	_	_	4	case	_	SpaceAfter=No
+6	𐰚𐰇𐰇𐰇𐰇𐰲	_	NOUN	_	_	4	conj	_	SpaceAfter=No
+7	𐰏	_	ADP	_	_	6	case	_	SpaceAfter=No
+8	:	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+9	𐰋𐰀𐰼	_	VERB	_	_	0	root	_	SpaceAfter=No
+10	𐰢𐰃𐱀	_	AUX	_	_	9	aux	_	SpaceAfter=No
+11	:	_	PUNCT	_	_	9	punct	_	_
+
 # sent_id = tuuurt__boolqka__
 # text = 𐱅𐰇𐰇𐰇𐰼𐱅:𐰉𐰆𐰆𐰞𐰬𐰴𐰀:
 # translit = tuuurt__boolqka__
