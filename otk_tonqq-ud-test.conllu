@@ -236,6 +236,14 @@
 4	𐰴𐰀	_	ADP	_	_	3	case	_	SpaceAfter=No
 5	:	_	PUNCT	_	_	3	punct	_	_
 
+# sent_id = altmx_at__
+# text = 𐰞𐱃𐰢𐱁𐱃:
+# translit = altmx_at__
+# text_en = Sixty horses.
+1	𐰞𐱃𐰢𐱁	_	NUM	_	_	2	nummod	_	SpaceAfter=No
+2	𐱃	_	NOUN	_	_	0	root	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	2	punct	_	_
+
 # sent_id = kwrkz__oglw__ben__
 # text = 𐰴𐰃𐰺𐰴𐰔:𐰆𐰍𐰞𐰃:𐰋𐰤:
 # translit = kwrkz__oglw__ben__
