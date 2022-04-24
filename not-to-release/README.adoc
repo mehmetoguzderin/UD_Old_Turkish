@@ -181,7 +181,7 @@ Explicit Ascii-and-link:+++https://doi.org/10.1038/s41586-021-04108-8+++[Transeu
 
 ==== Concise Explicit Vowels
 
-Alternatively, it is possible to use the following concise ASCII notation by not recognizing <<consonants,ergonomic duplicate fricative consonants>>. In long vowels, the letter a can substitute the second letter h for sort purposes, in which case, any letter h directly following the long vowel marking letter a should act as a word separator or vowel quality neutralizer akin to an underscore or space.
+Alternatively, it is possible to use the following concise ASCII notation by not recognizing <<consonants,ergonomic duplicate fricative consonants>>. In long vowels, the letter a can substitute the second letter h for sort purposes, in which case, any letter h directly following the long vowel marking letter a should act as a word separator or vowel quality neutralizer akin to an underscore or space. Repetition of such separator, the letter h, when not used as a length marker, can map to punctuation depending on the interpretation mode, akin to double underscore or space.
 
 ===== h
 
