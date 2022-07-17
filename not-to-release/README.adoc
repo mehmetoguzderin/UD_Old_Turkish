@@ -181,7 +181,7 @@ Explicit Ascii-and-link:+++https://doi.org/10.1038/s41586-021-04108-8+++[Transeu
 
 ==== Concise Explicit Vowels
 
-Alternatively, it is possible to use the following concise ASCII notation by not recognizing <<consonants,ergonomic duplicate fricative consonants>>. In long vowels, the letter a can substitute the second letter h for sort purposes, in which case, h can represent further consonantal sound correspondence. Repetition, doubling of any phonemic quality neutralizing separators, such as the blank space, dash, or underscore, can map to punctuation depending on the interpretation mode.
+Alternatively, it is possible to use the following concise ASCII notation by not recognizing <<consonants,ergonomic duplicate fricative consonants>>. In long vowels, the letter a can substitute the second letter h for sort purposes, in which case, h can represent further consonantal sound correspondence. Repetition, doubling of any phonemic quality neutralizing separators, such as the blank space, dash, or underscore, can map to punctuation depending on the interpretation 
 
 ===== h
 
@@ -212,7 +212,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|e
 1.1+^.^|*o*
 1.1+^.^|o
-1.1+^.^|*u*
+1.1+^.^|*f*
 1.1+^.^|ö
 1.1+^.^|*ah*
 1.1+^.^|a:
@@ -220,7 +220,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|e:
 1.1+^.^|*oh*
 1.1+^.^|o:
-1.1+^.^|*uh*
+1.1+^.^|*fh*
 1.1+^.^|ö:
 
 1.1+^.^|Closed
@@ -228,7 +228,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|ï
 1.1+^.^|*i*
 1.1+^.^|i
-1.1+^.^|*f*
+1.1+^.^|*u*
 1.1+^.^|u
 1.1+^.^|*v*
 1.1+^.^|ü
@@ -236,7 +236,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|ï:
 1.1+^.^|*ih*
 1.1+^.^|i:
-1.1+^.^|*fh*
+1.1+^.^|*uh*
 1.1+^.^|u:
 1.1+^.^|*vh*
 1.1+^.^|ü:
@@ -271,7 +271,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|e
 1.1+^.^|*o*
 1.1+^.^|o
-1.1+^.^|*u*
+1.1+^.^|*f*
 1.1+^.^|ö
 1.1+^.^|*aa*
 1.1+^.^|a:
@@ -279,7 +279,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|e:
 1.1+^.^|*oa*
 1.1+^.^|o:
-1.1+^.^|*ua*
+1.1+^.^|*fa*
 1.1+^.^|ö:
 
 1.1+^.^|Closed
@@ -287,7 +287,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|ï
 1.1+^.^|*i*
 1.1+^.^|i
-1.1+^.^|*f*
+1.1+^.^|*u*
 1.1+^.^|u
 1.1+^.^|*v*
 1.1+^.^|ü
@@ -295,7 +295,7 @@ Alternatively, it is possible to use the following concise ASCII notation by not
 1.1+^.^|ï:
 1.1+^.^|*ia*
 1.1+^.^|i:
-1.1+^.^|*fa*
+1.1+^.^|*ua*
 1.1+^.^|u:
 1.1+^.^|*va*
 1.1+^.^|ü:
