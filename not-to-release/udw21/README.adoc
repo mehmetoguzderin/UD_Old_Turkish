@@ -1,6 +1,6 @@
-= Old Turkish and Old Turkic
+= UDW21 Old Turkish and Old Turkic
 
-Old Turkish Language and Old Turkic Script
+2021 Workshop on Universal Dependencies Old Turkish Language and Old Turkic Script
 
 == Transliteration
 
