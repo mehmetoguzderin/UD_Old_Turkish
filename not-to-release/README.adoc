@@ -14,7 +14,7 @@
 
 \begin{document}
 
-"One" in Old Turkish language with Old Turkic script: {\otkorkh\char"10C0B\char"10C03\char"10C3C}.
+"One" in Old Turkish language with Old Turkic script: {\otkorkh \char"10C0B \char"10C03 \char"10C3C}.
 
 \end{document}
 ----
