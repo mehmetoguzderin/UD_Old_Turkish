@@ -20,6 +20,9 @@ Transliteration Implementation App (iOS): https://apps.apple.com/app/ascii-turk/
 
 
 # Changelog
+
+* 2024-05-15 v2.14
+  * Repository renamed from UD_Old_Turkish-Tonqq to UD_Old_Turkish-Clausal.
 * 2022-05-15 v2.10
   * Universal Dependencies for Old Turkish.
 * 2020-10-30 v2.7
